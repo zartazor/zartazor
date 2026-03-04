@@ -1,63 +1,27 @@
-```markdown
-# Hello there! 👋 I'm Zartazor
+# 💫 About Me:
+currently studying Batchelor of computer application @ kerala<br>leaning java, python<br>hungry learner <br>looking forward
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building solutions, exploring new technologies, and contributing to the open-source community.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zartazor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o_0.luke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-manoj-4b8330386) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zartazor_real) 
 
-### 🧰 Technologies & Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zartazor&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zartazor&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zartazor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zartazor&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zartazor&show_icons=true&theme=tokyonight&hide_border=true" alt="Zartazor's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zartazor&theme=tokyonight&hide_border=true" alt="Zartazor's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartazor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=zartazor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=zartazor&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 🚀 What I'm currently working on
-- 🔭 I’m currently working on **[Insert your current project here]**.
-- 🌱 I’m currently learning **[Insert new tech you are learning]**.
-- 👯 I’m looking to collaborate on **[Open source projects / specific topics]**.
-- 📫 How to reach me: **[Insert email or social link]**.
-
----
-
-### 🐍 A little more about me:
-
-```javascript
-const zartazor = {
-    code: ["Javascript", "Python", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        backEnd: ["Node.js", "Express"],
-        fronEnd: ["React", "Vue"],
-        databases: ["MongoDB", "PostgreSQL"]
-    },
-    currentFocus: "Building scalable applications",
-    funFact: "There are two ways to write error-free programs; only the third one works."
-};
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zartazor&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
