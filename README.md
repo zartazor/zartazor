@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying Batchelor of computer application @ kerala <br> leaning java, python<br>hungry learner <br> looking forward
+Currently studying Batchelor of computer application <br> leaning java, python<br>hungry learner <br> looking forward
 
 
 ## 🌐 Socials:
